@@ -3,7 +3,7 @@ import java.util.Scanner;
 import exceptions.ParametrosInvalidosException;
 
 public class Contador {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         
         Scanner scanner =  new Scanner(System.in);
 
